@@ -1,2 +1,2 @@
-# Hari-Prasad-Portfolio
-A personal portfolio showcasing my projects, technical skills, and creative work.
+# Hari's Portfolio
+A personal portfolio website showcasing my projects, learning journey, and creative work.
